@@ -4,3 +4,6 @@ Training repo for Git collaboration workshop
 With some text
 # Yet another section
 With some more text
+
+#My favorite color
+Black
